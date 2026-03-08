@@ -1,0 +1,12 @@
+/*
+Características de um bom banco de dados relacional:
+
+1 . CONTROLE  DE  REDUNDÂNCIAS
+2 . COMPARTILHAMENTO  DOS  DADOS
+3 . CONTROLE  DE  ACESSO
+4 . INTERFACEAMENTO
+5 . ESQUEMATIZAÇÃO
+6 . CONTROLE  DE  INTEGRIDADE
+7 . CÓPIAS  DE  SEGURANÇA
+
+*/
