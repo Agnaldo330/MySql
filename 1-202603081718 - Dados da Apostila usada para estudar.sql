@@ -1,5 +1,5 @@
-/* estou estudando mysql usando um apostila que baizei da internet
-Apostila com 60 paginas
+/* estou estudando mysql usando um apostila que baixei da internet
+Apostila com 60 paginas prodizido por CGE  COORDENADORIA  DO  GOVERNO  ELETRÔNICO - Equipe  de  Treinamento  Técnico
 
 Autor(s):
 Aparecido Quesada
