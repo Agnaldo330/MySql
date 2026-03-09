@@ -4,3 +4,5 @@ filmes que gosto:
 3 . Terror
 4 . Suspense
 5 . Documentários
+6 . De época
+7 . Anos 70 80 90 2000
