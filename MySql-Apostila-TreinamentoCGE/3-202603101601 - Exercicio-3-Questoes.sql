@@ -30,4 +30,4 @@ select * from clientes;
 	select Nome_Dependente, Sexo from clientes where Relacao = 'Conjugue' and Sexo = 'Feminino' order by Dt_Nascimento;
     
 -- i - Selecione todos os clientes e ordene a seleção em ordem decrescentes pela data de nascimento
-	select * from clientes order by Dt_Nascimento;
+	select * from clientes order by Dt_Nascimento desc;
