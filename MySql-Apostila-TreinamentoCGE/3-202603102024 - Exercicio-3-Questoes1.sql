@@ -19,3 +19,11 @@ select empregado.Nome
 from empregado
 join empregado_projeto on empregado.RG = empregado_projeto.RG
 where empregado_projeto.Numero_Projeto = 5;
+
+-- f-  Mostre o nome do responsável pelo dependente Angelo.
+select empregado.Nome
+from empregado
+join dependente
+on empregado.Nome = dependente.Nome_Dependente
+where dependente.Nome_Dependente = 'Angelo';
+
