@@ -23,4 +23,15 @@ mysql>revoke            all            oncomercial.*;
 			to usermysql@localhost
 			identifiedbysenha;**
 
+usar nomes padrão para nomes de banco de dados tabelas e campos
+por ex: banco de dados chamado comercial  -> "com"
+		tabelas chamada cliente  -> clien
+					ou seja      -> comclien
+
+padronizando também os nomes dos campos com os tipo de dados:
+**c_nomeclien** - **c**-tipo caractere, **nome**-nome do cliente, **clien**-tabela cliente
+
+e tambem respeitando a quantidade de caractere: 8 no máximo
+
+O planejamento de um SGBD é fundamental pra não incorrer em erros e problemas de instabilidade no sistema. um programa bom pra fazer modelagem de bds é o workbench
 

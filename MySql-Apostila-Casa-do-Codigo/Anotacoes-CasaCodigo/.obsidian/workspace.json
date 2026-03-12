@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202603120323 - Boas Praticas Programação.md",
+                "file": "DDL DML DCL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202603120323 - Boas Praticas Programação"
+              "title": "DDL DML DCL"
             }
           }
         ],
@@ -197,6 +197,8 @@
   "active": "87e97d307d333530",
   "lastOpenFiles": [
     "202603120323 - Boas Praticas Programação.md",
+    "DDL DML DCL.md",
+    "char varchar e text - tipo de dados.md",
     "Bem-vindo.md"
   ]
 }
