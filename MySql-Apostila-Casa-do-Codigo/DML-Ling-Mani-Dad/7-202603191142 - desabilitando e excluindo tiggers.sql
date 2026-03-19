@@ -1,0 +1,1 @@
+-- desabilitando tiggersalter trigger tri_vendas_bi desable;alter trigger tri_vendas_bi enable;-- excluindo tiggersmysql> alter trigger tri_vendas_bi enable;
